@@ -71,7 +71,7 @@
 *   [加载内核模块-Unknown symbol错误分析](https://blog.csdn.net/wuyongpeng0912/article/details/46739233)
 *   [[操作系统] 添加加密文件系统，向/mnt写文件进程被杀死](https://blog.csdn.net/ZJU_fish1996/article/details/53898839)
 *   [linux - After I change the fs/myext2/file.c read and write operation, my 'cat', 'cp', 'echo' are all killed - Stack Overflow](https://stackoverflow.com/questions/48049016/after-i-change-the-fs-myext2-file-c-read-and-write-operation-my-cat-cp-e)
-*   []()
+*   [SLAB 分配器和 kmalloc - 推酷](https://www.tuicool.com/articles/ZveEjej)
 *   []()
 *   []()
 *   []()
