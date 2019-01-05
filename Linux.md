@@ -75,7 +75,7 @@
 *   [Linux进程地址空间](http://vinllen.com/linuxjin-cheng-di-zhi-kong-jian/)
 *   [Linux 文件系统剖析](https://www.ibm.com/developerworks/cn/linux/l-linux-filesystem/index.html)
 *   [Linux文件系统和inode](https://www.jianshu.com/p/9ef6542ced92)
-*   []()
+*   [Linux文件系统详解](https://juejin.im/post/5b8ba9e26fb9a019c372e100)
 *   []()
 *   []()
 *   []()
