@@ -79,7 +79,7 @@
 *   [一个Java字符串中到底有多少个字符?](https://colobu.com/2019/01/04/how-many-charactors-in-a-java-string/)
 *   [java学习笔记-4 JVM垃圾回收（GC）](https://juejin.im/post/5b2efb4451882574cf66a837?utm_source=tuicool&utm_medium=referral)
 *   [java自定义注解学习（二）_注解详解](http://www.cnblogs.com/zhenghengbin/p/9797668.html?utm_source=tuicool&utm_medium=referral)
-*   []()
+*   [给设计模式说句公道话](https://mp.weixin.qq.com/s/EoFUsLAJDPLgYZoqwPovzA)
 *   []()
 *   []()
 *   []()
