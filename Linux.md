@@ -76,7 +76,7 @@
 *   [Linux 文件系统剖析](https://www.ibm.com/developerworks/cn/linux/l-linux-filesystem/index.html)
 *   [Linux文件系统和inode](https://www.jianshu.com/p/9ef6542ced92)
 *   [Linux文件系统详解](https://juejin.im/post/5b8ba9e26fb9a019c372e100)
-*   []()
+*   [**特殊权限 SUID、SGID、Sticky**](https://www.cnblogs.com/Q--T/p/7864795.html)
 *   []()
 *   []()
 *   []()
