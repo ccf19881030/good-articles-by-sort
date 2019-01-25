@@ -1,7 +1,7 @@
 # go
 
 
-*   [在Visual Studio Code中配置GO开发环境](https://blog.csdn.net/langzi7758521/article/details/51313521)
+*   [鍦╒isual Studio Code涓厤缃瓽O寮�鍙戠幆澧僝(https://blog.csdn.net/langzi7758521/article/details/51313521)
 *   []()
 *   []()
 *   []()
