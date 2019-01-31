@@ -18,7 +18,7 @@
 *   [Latex教程: [10]插入超链接](https://jingyan.baidu.com/article/4d58d54116c7c69dd4e9c0bd.html)
 *   [Latex教程: [5]输入, 处理中文](https://jingyan.baidu.com/article/36d6ed1f76a99e1bce48836f.html)
 *   [How to invoke latex with the -shell-escape flag in TeXMakerX?](https://tex.stackexchange.com/questions/99475/how-to-invoke-latex-with-the-shell-escape-flag-in-texmakerx)
-*   [LaTeX如何输出反斜杠 \](https://blog.csdn.net/qq_34809033/article/details/80729027)
+*   [LaTeX如何输出反斜杠 ](https://blog.csdn.net/qq_34809033/article/details/80729027)
 *   []()
 *   []()
 *   []()
