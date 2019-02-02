@@ -57,7 +57,7 @@
 *   [CPython 源码分析 - 0](https://zhuanlan.zhihu.com/p/49451546?utm_source=tuicool&utm_medium=referral)
 *   [使用Python创建WebUI](https://zhuanlan.zhihu.com/p/50826998?utm_source=tuicool&utm_medium=referral)
 *   [CSIC2010学习Word2vec表示及可视化 - 一个致力“使己成为人”的专栏 - CSDN博客](https://blog.csdn.net/wjbwjbwjbwjb/article/details/78145716)
-*   []()
+*   [flask 自动转义](https://blog.csdn.net/weixin_42752585/article/details/83750696)
 *   []()
 *   []()
 *   []()
