@@ -102,7 +102,7 @@
 *   [SWT、Swing 或 AWT：哪个更适合您？](https://www.ibm.com/developerworks/cn/opensource/os-swingswt/index.html)
 *   [java "=="、"equals"判断包装类是否相等 - bobozai86的博客 - CSDN博客](https://blog.csdn.net/bobozai86/article/details/82078071)
 *   [string - Isn't the size of character in Java 2 bytes? - Stack Overflow](https://stackoverflow.com/questions/5078314/isnt-the-size-of-character-in-java-2-bytes)
-*   []()
+*   [最简单的设计模式——单例模式的演进和推荐写法（Java 版）](http://www.cnblogs.com/kubixuesheng/p/10344533.html)
 *   []()
 *   []()
 *   []()

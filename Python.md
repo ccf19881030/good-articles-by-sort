@@ -58,7 +58,7 @@
 *   [使用Python创建WebUI](https://zhuanlan.zhihu.com/p/50826998?utm_source=tuicool&utm_medium=referral)
 *   [CSIC2010学习Word2vec表示及可视化 - 一个致力“使己成为人”的专栏 - CSDN博客](https://blog.csdn.net/wjbwjbwjbwjb/article/details/78145716)
 *   [flask 自动转义](https://blog.csdn.net/weixin_42752585/article/details/83750696)
-*   []()
+*   [用Python写一个语音播放软件](https://mp.weixin.qq.com/s?__biz=MzIxNjM4NDE2MA==&mid=2247488002&idx=1&sn=74622d2c18a23e09342afeb56e780f28&chksm=978885cda0ff0cdb47b960a1850bb7d8dabc3641a120e09ce1aa8c449f70b15ae140a51c2ea4&mpshare=1&scene=23&srcid=10303mfkkaShKQBHes7iopyx#rd)
 *   []()
 *   []()
 *   []()
