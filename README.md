@@ -85,6 +85,9 @@
 *   [The 9.9 Percent Is the New American Aristocracy](https://www.theatlantic.com/magazine/archive/2018/06/the-birth-of-a-new-american-aristocracy/559130/) 13776词
 
 
+
+##  [找工作](找工作.md)
+
 ##  [大数据](大数据.md)
 
 ##  [观察者](观察者.md)
@@ -119,6 +122,7 @@
 
 ##  [时事热点](时事热点.md)
 
+##  [技术网站](技术网站.md)
 
 ##  [数据结构](数据结构.md)
 
