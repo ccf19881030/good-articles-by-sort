@@ -77,7 +77,7 @@
 *   [Linux文件系统和inode](https://www.jianshu.com/p/9ef6542ced92)
 *   [Linux文件系统详解](https://juejin.im/post/5b8ba9e26fb9a019c372e100)
 *   [**特殊权限 SUID、SGID、Sticky**](https://www.cnblogs.com/Q--T/p/7864795.html)
-*   []()
+*   [bash - How do I clear/delete the current line in terminal? - Stack Overflow](https://stackoverflow.com/questions/9679776/how-do-i-clear-delete-the-current-line-in-terminal)
 *   []()
 *   []()
 *   []()

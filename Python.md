@@ -62,7 +62,7 @@
 *   [取代 Python 多进程！伯克利开源分布式框架 Ray](https://www.infoq.cn/article/6_7CfthGiXg0aytptoai)
 *   [使用Python的四种机器学习技术](http://mushiming.top/mushblog/archives/928)
 *   [用python模拟地球飞越木星 - 知乎](https://zhuanlan.zhihu.com/p/56598906)
-*   []()
+*   [有趣的Python开源库之Hashids](https://mp.weixin.qq.com/s/-DJ9Bk5uxLwUpm8GPE55HQ?)
 *   []()
 *   []()
 *   []()
