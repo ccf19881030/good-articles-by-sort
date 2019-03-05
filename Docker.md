@@ -19,7 +19,7 @@
 *   [Docker容器技术之Docker file](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247486864&idx=1&sn=4e4a252aada8dfdb0de4e5e92de02058&chksm=e91b688cde6ce19af4f61b42454759c701bf2e250a46563948d6962be3a1883d63bd9c57beaf&mpshare=1&scene=23&srcid=0920VeoITSyfYK0Y8DSvqVQS#rd)
 *   [Docker CheatSheet | Docker 配置与实践清单](https://segmentfault.com/a/1190000016447161?utm_source=tuicool&utm_medium=referral)
 *   [写给孩子看的Kubernetes动画指南【中英字幕】](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665514892&idx=1&sn=f8b1169d9b66b88c3f5bac14de5384a7&chksm=80d67fcfb7a1f6d93359d14e0983fc895f734d35a1d7f3534e5e3c1c3294033c60ae09e7f5aa&mpshare=1&scene=23&srcid=0927MO4XawH0pPyNXRHcBD2W#rd)
-*   []()
+*   [9102 年了，学点 Docker 知识 - DockOne.io](http://dockone.io/article/8583)
 *   []()
 *   []()
 *   []()

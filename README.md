@@ -39,6 +39,7 @@
 
 ##  [爬虫](爬虫.md)
 
+##  [考研](考研.md)
 
 ##  [硬件](硬件.md)
 *   [通信交换的百年沧桑](https://mp.weixin.qq.com/s/4vGVg1_LP8HQJbC5fMthBw)

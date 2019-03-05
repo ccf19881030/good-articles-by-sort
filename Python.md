@@ -63,7 +63,7 @@
 *   [使用Python的四种机器学习技术](http://mushiming.top/mushblog/archives/928)
 *   [用python模拟地球飞越木星 - 知乎](https://zhuanlan.zhihu.com/p/56598906)
 *   [有趣的Python开源库之Hashids](https://mp.weixin.qq.com/s/-DJ9Bk5uxLwUpm8GPE55HQ?)
-*   []()
+*   [PyCharm+Docker：打造最舒适的深度学习炼丹炉 | 雷锋网](https://www.leiphone.com/news/201902/fcOmAfgU4CBwvMPM.html)
 *   []()
 *   []()
 *   []()
