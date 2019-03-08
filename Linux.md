@@ -78,7 +78,7 @@
 *   [Linux文件系统详解](https://juejin.im/post/5b8ba9e26fb9a019c372e100)
 *   [**特殊权限 SUID、SGID、Sticky**](https://www.cnblogs.com/Q--T/p/7864795.html)
 *   [bash - How do I clear/delete the current line in terminal? - Stack Overflow](https://stackoverflow.com/questions/9679776/how-do-i-clear-delete-the-current-line-in-terminal)
-*   []()
+*   [为初学者介绍的 Linux tee 命令（6 个例子）](https://linux.cn/article-9435-1.html)
 *   []()
 *   []()
 *   []()
