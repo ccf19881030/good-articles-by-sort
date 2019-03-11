@@ -64,7 +64,7 @@
 *   [用python模拟地球飞越木星 - 知乎](https://zhuanlan.zhihu.com/p/56598906)
 *   [有趣的Python开源库之Hashids](https://mp.weixin.qq.com/s/-DJ9Bk5uxLwUpm8GPE55HQ?)
 *   [PyCharm+Docker：打造最舒适的深度学习炼丹炉 | 雷锋网](https://www.leiphone.com/news/201902/fcOmAfgU4CBwvMPM.html)
-*   []()
+*   [5分钟 Pipenv 上手指南](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650369420&idx=1&sn=632b0176f5ce7263c4b356186db99f76&chksm=be9cd6d889eb5fce1c9b418105e00600f44a707e649f3178c2736276050822c1df7b384f734e&mpshare=1&scene=23&srcid=01186ORt8JIbannC939DsUqS#rd)
 *   []()
 *   []()
 *   []()
