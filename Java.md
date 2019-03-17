@@ -104,7 +104,7 @@
 *   [string - Isn't the size of character in Java 2 bytes? - Stack Overflow](https://stackoverflow.com/questions/5078314/isnt-the-size-of-character-in-java-2-bytes)
 *   [最简单的设计模式——单例模式的演进和推荐写法（Java 版）](http://www.cnblogs.com/kubixuesheng/p/10344533.html)
 *   [Spring：一个Java框架15年的演化](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665515755&idx=1&sn=5e296474091c14fc220773e752193aa2&chksm=80d672a8b7a1fbbe8a42f4b5a06cfd353ab34a06b4c341d76ca52518326de416cf27c764dfb0&token=1250729407&lang=zh_CN#rd)
-*   []()
+*   [从.Net到Java学习第一篇——开篇](https://www.cnblogs.com/jiekzou/p/9125928.html)
 *   []()
 *   []()
 *   []()

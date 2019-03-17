@@ -65,7 +65,7 @@
 *   [有趣的Python开源库之Hashids](https://mp.weixin.qq.com/s/-DJ9Bk5uxLwUpm8GPE55HQ?)
 *   [PyCharm+Docker：打造最舒适的深度学习炼丹炉 | 雷锋网](https://www.leiphone.com/news/201902/fcOmAfgU4CBwvMPM.html)
 *   [5分钟 Pipenv 上手指南](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650369420&idx=1&sn=632b0176f5ce7263c4b356186db99f76&chksm=be9cd6d889eb5fce1c9b418105e00600f44a707e649f3178c2736276050822c1df7b384f734e&mpshare=1&scene=23&srcid=01186ORt8JIbannC939DsUqS#rd)
-*   []()
+*   [谁说程序员不可爱，用Python给女朋友每天自动发问候短信](https://mp.weixin.qq.com/s?__biz=MzIxNjM4NDE2MA==&mid=2247487960&idx=1&sn=f7efc17b5d33b92c22527c27960cc70f&chksm=97888617a0ff0f01b7aa8eac826d0969372d19a4018ab2cbfff68c1c046b7008160b9d69abe3&mpshare=1&scene=23&srcid=0313QC8x0hKtMicG5brYMSYj#rd)
 *   []()
 *   []()
 *   []()
