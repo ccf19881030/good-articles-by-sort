@@ -113,7 +113,7 @@
 *   [Java 正则表达式](http://www.runoob.com/java/java-regular-expressions.html)
 *   [java实现网络爬虫](https://www.cnblogs.com/1996swg/p/7355577.html)
 *   [IDEA 代码格式化，快捷键 - 吖水的程序路 - 博客园](https://www.cnblogs.com/aashui/p/7657803.html)
-*   []()
+*   [Eclipse Che 初上手 - 简书](https://www.jianshu.com/p/339dff3da1fa)
 *   []()
 *   []()
 *   []()
